@@ -4,7 +4,9 @@
 
 [전체 발표 대본 보기](./presentation-script.txt)
 
-2026-11-02에 발표자 노트를 수정했습니다. 전공 내용과 연결한 활동 설계, 학생의 실행·검토·수정 과정, 다음 수업의 보완점을 중심으로 정리했습니다. 각 슬라이드의 ‘노트’와 전체 발표 대본의 내용은 같습니다.
+2026-11-02에 발표자 노트를 수정했습니다. 전공 내용과 연결한 활동 설계, 학생의 실행·검토·수정 과정, 다음 수업의 보완점을 중심으로 정리했습니다. 7장 사례 소개에서 AI 윤리·저작권을 바로 언급하고, 8장의 수업 보완점과 9장의 마무리에서도 강조했습니다. 각 슬라이드의 ‘노트’와 전체 발표 대본의 내용은 같습니다.
+
+AI 윤리·저작권 문구 참고: [UNESCO 생성형 AI 교육·연구 지침](https://www.unesco.org/en/articles/guidance-generative-ai-education-and-research), [한국저작권위원회 「생성형 인공지능 결과물에 의한 저작권 분쟁 예방 안내서」 7장(PDF)](https://ai.wiseuser.go.kr/uploads/information/%ED%95%9C%EA%B5%AD%EC%A0%80%EC%9E%91%EA%B6%8C%EC%9C%84%EC%9B%90%ED%9A%8C_%EC%83%9D%EC%84%B1%ED%98%95_%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5_%EA%B2%B0%EA%B3%BC%EB%AC%BC%EC%97%90_%EC%9D%98%ED%95%9C_%EC%A0%80%EC%9E%91%EA%B6%8C_%EB%B6%84%EC%9F%81_%EC%98%88%EB%B0%A9_%EC%95%88%EB%82%B4%EC%84%9C.pdf#page=43). 실제 학생 작품에 대한 권리 침해 여부를 판정한 내용은 아닙니다.
 
 ## 실행
 
